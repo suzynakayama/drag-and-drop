@@ -10,11 +10,11 @@ body {
 
 .draggable {
   padding: 1rem;
-  background-color: blueviolet;
+  background-color: rgb(162, 107, 214);
   border: 1ps solid black;
   cursor: move;
 }
 
 .draggable .dragging {
-  opacity: .5;
+  opacity: 0.1;
 }
